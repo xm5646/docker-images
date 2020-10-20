@@ -1,1 +1,1 @@
-From gcr.io/jenkinsxio/exposecontroller:2.3.111
+From gcr.io/jenkinsxio/builder-jx:2.1.150-769
